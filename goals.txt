@@ -1,51 +1,51 @@
-Complete a level in <5 seconds IGT
-Complete a level using a pause strat with a minimum of 3 frames
-Complete 5 levels using pause strats
-Get every banana in 3 different bonus stages
-Get every banana in 10 stages
-Complete Beginner Warpless
-Complete Beginner Extra Warpless
-Complete Advanced 1-10 Warpless
-Complete Advanced 11-20 Warpless
-Complete Advanced 21-30 Warpless
-Complete Advanced Extra
-Complete Expert 1-10 Warpless
-Complete Expert 11-20 Warpless
-Complete Expert 21-30 Warpless
-Complete Expert 31-40 Warpless
-Complete Expert 41-50 Warpless
-Complete Expert Extra Warpless
-Complete Master Warpless
-Complete Master Extra Warpless
-Complete World 1
-Complete World 2
-Complete World 3
-Complete World 4
-Complete World 5
-Complete World 6
-Complete World 7
-Complete World 8
-Complete World 9
-Complete World 10
-Complete World 10 Pauseless
-Complete World 7 Pauseless
-Complete Serial Jump Red Goal Using All Circles
-Complete 5 stages with FF button
-Complete 1 thinnest path stage
-Complete 3 Green Goals
-Complete 3 Red Goals
-Switchless switches
-Complete 20 stages in Advanced
-Complete 20 stages in Expert
-Complete Flat Maze with all bananas
-Complete pistons with 0 bananas
-Complete a world in story mode only using the any% glitch
-Complete Striker strikerless
-Get all 3 goals in a stage
-Time out in the controller socket on Nintendo
-Complete Dizzy System in over 10 seconds IGT
-Complete Domino switchless
-Get a glitch goal
-Get all bananas on Ring Bridges
-Complete blue goal Entangled Path
-Complete 5 goals in bonus stages
+Complete a level in <5 seconds IGT,short
+Complete a level using a pause strat with a minimum of 3 frames,short
+Complete 5 levels using pause strats,medium
+Get every banana in 3 different bonus stages,medium
+Get every banana in 10 stages,medium
+Complete Beginner Warpless,short
+Complete Beginner Extra Warpless,short
+Complete Advanced 1-10 Warpless,short
+Complete Advanced 11-20 Warpless,short
+Complete Advanced 21-30 Warpless,medium
+Complete Advanced Extra,medium
+Complete Expert 1-10 Warpless,short
+Complete Expert 11-20 Warpless,short
+Complete Expert 21-30 Warpless,medium
+Complete Expert 31-40 Warpless,medium
+Complete Expert 41-50 Warpless,long
+Complete Expert Extra Warpless,long
+Complete Master Warpless,short
+Complete Master Extra Warpless,short
+Complete World 1,short
+Complete World 2,short
+Complete World 3,short
+Complete World 4,medium
+Complete World 5,medium
+Complete World 6,medium
+Complete World 7,long
+Complete World 8,long
+Complete World 9,long
+Complete World 10,long
+Complete World 10 Pauseless,long
+Complete World 7 Pauseless,long
+Complete Serial Jump Red Goal Using All Circles,long
+Complete 5 stages with FF button,long
+Complete 1 thinnest path stage,medium
+Complete 3 Green Goals,medium
+Complete 3 Red Goals,medium
+Switchless switches,short
+Complete 20 stages in Advanced,medium
+Complete 20 stages in Expert,medium
+Complete Flat Maze with all bananas,long
+Complete pistons with 0 bananas,medium
+Complete a world in story mode only using the any% glitch,short
+Complete Striker strikerless,short
+Get all 3 goals in a stage,medium
+Time out in the controller socket on Nintendo,medium
+Complete Dizzy System in over 10 seconds IGT,medium
+Complete Domino switchless,medium
+Get a glitch goal,medium
+Get all bananas on Ring Bridges,medium
+Complete blue goal Entangled Path,long
+Complete 5 goals in bonus stages,medium
