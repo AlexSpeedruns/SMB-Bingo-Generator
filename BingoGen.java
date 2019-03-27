@@ -5,6 +5,7 @@ public class BingoGen {
 	
 	public static void main(String[] args) {
 		ArrayList<Goal> goals = readGoals();
+		ArrayList<Integer> picked = new ArrayList<Integer>(0);
 		String again = "yes";
 		String print = "[";
 		while(again.equals("yes")) {	
@@ -62,7 +63,6 @@ public class BingoGen {
 				else {
 					int size = 0;
 					print = "[";
-					ArrayList<Integer> picked = new ArrayList<Integer>(0);
 					while(size < 25) {
 						int r = (int) (Math.random() * goals.size());
 						if(c == 1) {
